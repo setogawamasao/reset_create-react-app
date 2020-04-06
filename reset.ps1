@@ -24,3 +24,4 @@ rm ../src/setupTests.ts
 Copy-Item ./src/index.css ../src
 Copy-Item ./src/App.tsx ../src
 Copy-Item ./src/index.tsx ../src
+Copy-Item ./readme/README.md ../
